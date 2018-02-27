@@ -1,5 +1,6 @@
 [
 	{
+		"id": 0,
 		"name": "Alerter",
 		"thumbnail": "https://cloudcheckr.com/wp-content/uploads/2015/12/alert.jpg",
 		"imgsrc": "https://www.mautic.org/wp-content/uploads/2017/12/send_alert.jpg",
